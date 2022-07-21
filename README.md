@@ -1,6 +1,7 @@
 # Showcase API Tests
 
 ![Python 3.9.1](https://img.shields.io/badge/Python-3.9.1-green.svg)
+[![Python Tests](https://github.com/gtroshin/showcase-api-tests/actions/workflows/python-unit-tests.yml/badge.svg)](https://github.com/gtroshin/showcase-api-tests/actions/workflows/python-unit-tests.yml)
 
 Showcase API tests using a Python' `unittest` testing framework.
 
